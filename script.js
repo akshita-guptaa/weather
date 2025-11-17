@@ -1,4 +1,4 @@
-let apiKey = "443ba52b73eab60a2d9b032f833e2038";
+let apiKey = "YOUR_API_KEY_HERE";
 
 let ip = document.getElementById("ip");
 let sbtn = document.getElementById("sbtn");
