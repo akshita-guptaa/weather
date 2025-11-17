@@ -14,7 +14,6 @@ The app allows users to search for any city and view its current weather conditi
   - Today’s high & low
   - Humidity
   - Wind speed
-  - Local date & time
 - Modern card-based UI with soft shadows and gradients
 - Responsive layout for different screen sizes
 - (Optional) Saves recent search in browser storage for quick access
@@ -57,3 +56,4 @@ Project Structure
 ├── style.css       # All styles
 └── script.js       # JavaScript logic (API calls, DOM updates)
 ```
+<img width="571" height="385" alt="image" src="https://github.com/user-attachments/assets/7c19c069-3330-4cbf-8866-f8b942f0c41b" />
